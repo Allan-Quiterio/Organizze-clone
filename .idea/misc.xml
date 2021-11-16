@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/allan/.AndroidStudio3.5/Organizze/app/src/main/res/drawable/ic_adicionar_branco_24.xml" value="0.18888888888888888" />
+        <entry key="..\:/Users/allan/.AndroidStudio3.5/Organizze/app/src/main/res/drawable/ic_adicionar_preto_24.xml" value="0.18888888888888888" />
+        <entry key="..\:/Users/allan/.AndroidStudio3.5/Organizze/app/src/main/res/drawable/ic_confirmar_24.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/allan/.AndroidStudio3.5/Organizze/app/src/main/res/drawable/ic_person_gray_24.xml" value="0.19444444444444445" />
+        <entry key="..\:/Users/allan/.AndroidStudio3.5/Organizze/app/src/main/res/layout/activity_cadastro.xml" value="0.25" />
+        <entry key="..\:/Users/allan/.AndroidStudio3.5/Organizze/app/src/main/res/layout/activity_despesas.xml" value="0.25" />
+        <entry key="..\:/Users/allan/.AndroidStudio3.5/Organizze/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/allan/.AndroidStudio3.5/Organizze/app/src/main/res/layout/activity_main.xml" value="0.20104166666666667" />
+        <entry key="..\:/Users/allan/.AndroidStudio3.5/Organizze/app/src/main/res/layout/activity_principal.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/allan/.AndroidStudio3.5/Organizze/app/src/main/res/layout/activity_receitas.xml" value="0.33" />
+        <entry key="..\:/Users/allan/.AndroidStudio3.5/Organizze/app/src/main/res/layout/adapter_movimentacao.xml" value="0.22" />
+        <entry key="..\:/Users/allan/.AndroidStudio3.5/Organizze/app/src/main/res/layout/content_principal.xml" value="0.25" />
+        <entry key="..\:/Users/allan/.AndroidStudio3.5/Organizze/app/src/main/res/layout/fragment_first.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/allan/.AndroidStudio3.5/Organizze/app/src/main/res/layout/fragment_second.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/allan/.AndroidStudio3.5/Organizze/app/src/main/res/layout/intro_1.xml" value="0.33" />
+        <entry key="..\:/Users/allan/.AndroidStudio3.5/Organizze/app/src/main/res/layout/intro_2.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/allan/.AndroidStudio3.5/Organizze/app/src/main/res/layout/intro_3.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/allan/.AndroidStudio3.5/Organizze/app/src/main/res/layout/intro_4.xml" value="0.33" />
+        <entry key="..\:/Users/allan/.AndroidStudio3.5/Organizze/app/src/main/res/layout/intro_5.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/allan/.AndroidStudio3.5/Organizze/app/src/main/res/layout/intro_cadastro.xml" value="0.33" />
+        <entry key="..\:/Users/allan/.AndroidStudio3.5/Organizze/app/src/main/res/menu/menu_pincipal.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
